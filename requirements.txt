@@ -17,3 +17,4 @@ uvicorn
 unstructured
 gunicorn
 pinecone
+langchain_pinecone
